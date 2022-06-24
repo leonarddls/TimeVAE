@@ -1,2 +1,9 @@
 model/
 outputs/
+.env/
+__pycache__/
+.vscode
+config/
+*.pcy
+.pytest_cache
+.ipynb_checkpoints
